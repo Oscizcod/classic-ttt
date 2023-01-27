@@ -40,5 +40,9 @@ body {
 
 input[type="submit"] {
     width: 50px;
-    margin: 10px auto 0px auto;
+    margin: 15px auto 0px auto;
+    background-color: rgb(35, 35, 42);
+    border: none;
+    border-radius: 5px;
+    color: white;
 }
